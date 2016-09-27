@@ -1,0 +1,38 @@
+/**
+ * Course: EECS 114 Fall 2015
+ *
+ * First Name: Stefan  
+ * Last Name: Cao
+ * Lab Section: 1A
+ * email address: stefanc1@uci.edu
+ *
+ *
+ * Assignment: assn4
+ * Filename : README
+ *
+ * I hereby certify that the contents of this file represent
+ * my own original individual work. Nowhere herein is there 
+ * code from any outside resources such as another individual,
+ * a website, or publishings unless specifically designated as
+ * permissible by the instructor or TA.
+ */ 
+
+method:
+- peek() (Vertex)
+- peekInteger()
+- poll() (Vertex)
+- pollInteger()
+- add() (Vertex)
+- addInteger()
+- display()
+
+How to compile and run?
+1) to compile, type this command into the command line
+	javac PriorityQueueMain.java
+2) to run
+	java PriotyQueueMain
+
+
+
+
+
